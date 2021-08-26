@@ -1,0 +1,26 @@
+com/example/database/WeatherRoomDatabase_Impl.java
+ com.example.database.WeatherRoomDatabase_Impl
+ com.example.database.WeatherRoomDatabase_Impl$1
+hilt_aggregated_deps/_com_example_database_RoomModule.java
+ hilt_aggregated_deps._com_example_database_RoomModule
+com/example/database/CityDao_Impl.java
+ com.example.database.CityDao_Impl
+ com.example.database.CityDao_Impl$1
+ com.example.database.CityDao_Impl$2
+ com.example.database.CityDao_Impl$3
+ com.example.database.CityDao_Impl$4
+com/example/database/DaoModule_ProvidesCityDaoFactory.java
+ com.example.database.DaoModule_ProvidesCityDaoFactory
+hilt_aggregated_deps/_com_example_database_WeatherDatabaseBindings.java
+ hilt_aggregated_deps._com_example_database_WeatherDatabaseBindings
+com/example/database/RoomModule_ProvidesWeatherDatabaseFactory.java
+ com.example.database.RoomModule_ProvidesWeatherDatabaseFactory
+hilt_aggregated_deps/_com_example_database_DatabaseMappers.java
+ hilt_aggregated_deps._com_example_database_DatabaseMappers
+com/example/database/DatabaseMappers_ProvidesDbMapperFactory.java
+ com.example.database.DatabaseMappers_ProvidesDbMapperFactory
+ com.example.database.DatabaseMappers_ProvidesDbMapperFactory$InstanceHolder
+com/example/database/BuildConfig.java
+ com.example.database.BuildConfig
+hilt_aggregated_deps/_com_example_database_DaoModule.java
+ hilt_aggregated_deps._com_example_database_DaoModule
