@@ -34,5 +34,6 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     annotationProcessor "androidx.room:room-compiler:$room_version"
     kapt "androidx.room:room-compiler:$room_version"
-    implementation project(':common:data_utility')
+    api project(':MP-git-data-util')
+
 }
